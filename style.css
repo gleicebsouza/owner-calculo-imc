@@ -147,8 +147,7 @@ form button:hover {
 .modal {
   position: relative;
 }
-/*inset:0 >> quer dizer o mesmo que:top:0;bottom:0;right: 0;
-  left:0; */
+/*inset:0 >> shorthnd de top:0,bottom:0,right: 0;left:0; */
 
 .modal button {
   background: none;
