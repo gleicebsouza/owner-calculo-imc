@@ -8,3 +8,4 @@ export const AlertError = {
     AlertError.element.classList.remove('open')
   }
 }
+//document.querySelector('#qualquercoisa').style.display = 'block'

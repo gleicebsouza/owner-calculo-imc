@@ -10,7 +10,6 @@
   - Preenchimento das bordas
   - Espaços para os cards
    */
-
 * {
   margin: 0;
   padding: 0;
@@ -18,10 +17,8 @@
 }
 :root {
   font-size: 62.5%;
-
   /* cores */
   --tt-heading: #0c3440;
-
   --tt-label: #00453a;
   --tt-input: #212529;
   --ot-input: ##02799d;
@@ -39,7 +36,7 @@
   --bg-error: rgb(179, 48, 48);
 }
 body {
-  background-color: #040924;
+  background-color: #4c587b;
   font-family: 'Roboto', sans-serif;
 }
 body,
@@ -127,7 +124,7 @@ form button:hover {
 
 /* Modal */
 
-.model-wrapper.open {
+.modal-wrapper.open {
   opacity: 1;
   visibility: visible;
 }
