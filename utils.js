@@ -3,7 +3,6 @@
 
 export function notANumber(value) {
   return isNaN(value) || value == ''
-  alert(notANumber)
 }
 
 export function /* A function that calculate the IMC. */

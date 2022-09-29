@@ -31,14 +31,14 @@ form.onsubmit = event => {
   const weight = inputWeight.value
   const height = inputHeight.value
 
-  //alerta de erro
+  //Alert error
   const weightOrHeightIsNotANumber = notANumber(weight) || notANumber(height)
 
   if (weightOrHeightIsNotANumber) {
     AlertError.open()
     return
   }
-  // fechar o alerta de erro
+  // Fechar Alert_error
   AlertError.close()
 
   /*teste de mesa:
