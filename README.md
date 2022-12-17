@@ -8,8 +8,7 @@ layout animado usando HTML, CSS
 - [ ]  Refatoração de código e conceitos de clean code
 
 ## DEPLOY ##
-
+https://gleicebsouza.github.io/calculo-imc/
 <br>
-
 
 ## PROJETO ##
