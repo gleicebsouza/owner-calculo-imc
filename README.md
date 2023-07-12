@@ -2,13 +2,16 @@
 Calcular índice de massa corporal
 
 layout animado usando HTML, CSS 
-- [ ]  Eventos da DOM 
-- [ ]  Aplicado conceitos de unidades de medidas relativas 
-- [ ]  Conceitos de recursividade
-- [ ]  Refatoração de código e conceitos de clean code
+- [x]  Eventos da DOM 
+- [x]  Aplicado conceitos de unidades de medidas relativas 
+- [x]  Conceitos de recursividade
+- [x]  Refatoração de código e conceitos de clean code
 
 ## DEPLOY ##
-https://gleicebsouza.github.io/calculo-imc/
+
+http://gleice.dev/owner-calculo-imc/
 <br>
 
-## PROJETO ##
+## 🔖PROJETO ##
+![image](https://github.com/gleicebsouza/owner-calculo-imc/assets/61830297/be63d55f-1184-4d74-95de-c650530faae4)
+
